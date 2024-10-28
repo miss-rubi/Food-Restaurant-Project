@@ -1,2 +1,2 @@
-# resume
-My resume from complete web development course.
+# Food Resturant Project
+This Project is complete with HTML , CSS and JS Query.
